@@ -18,13 +18,13 @@ Feel free to make a pr or add in the isssue section a problem or an idea to make
 ## Clone this projects
 
 ```
-  git clone https://github.com/misarb/rustthings.git
+  git clone git@github.com:misarb/CallofRustCode.git
 ```
 
 CD into the project
 
 ```bash
-  cd rustthings/echor
+  cd CallofRustCode
 ```
 ```
 Create your own branch
